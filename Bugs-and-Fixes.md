@@ -94,4 +94,9 @@ sudo apt-get install thunar
 ```
 Or download and install the package [thunar_1.2.3-4+b1_i386.deb](http://www.smokey01.com/saintless/DebianDog/Packages/Extra/thunar_1.2.3-4+b1_i386.deb)
 
-**11.** [Some new scripts and mods.](https://github.com/DebianDog/Wheezy/tree/master/scripts)
+**11.** [Some new scripts and mods.](https://github.com/MintPup/DebianDog_Wheezy/tree/master/scripts)
+
+**12.** Remove programs and scripts from [**mcewanw**](http://murga-linux.com/puppy/viewtopic.php?p=960161#960161)
+
+[His wish will be respected as usual.](https://github.com/MintPup/DebianDog-Wheezy/commits/master/scripts)
+
